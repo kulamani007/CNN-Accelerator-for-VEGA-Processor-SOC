@@ -1,1 +1,0 @@
-# CNN-Accelerator-for-VEGA-Processor-SOC
