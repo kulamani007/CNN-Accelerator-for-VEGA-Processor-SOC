@@ -172,7 +172,7 @@ The provided unified testbench:
 - Bitstream successfully generated
 - All I/O mapped via XDC constraints
 
-📄 See full report: [`synthesis_report.pdf`](synthesis/)
+📄 See full report: [`synthesis_report.pdf`](Synthesys)
 
 ---
 
